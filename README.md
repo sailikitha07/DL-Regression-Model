@@ -145,7 +145,7 @@ Include screenshot of the generated data
 #### Include your plot here
 <img width="772" height="582" alt="image" src="https://github.com/user-attachments/assets/42336e1d-ced0-4f8e-a923-4a672820201f" />
 
-### New Sample Data Prediction
+#### New Sample Data Prediction
 <img width="786" height="276" alt="image" src="https://github.com/user-attachments/assets/c367a092-70bd-49e8-a768-f680e23857ee" />
 
 ## RESULT
